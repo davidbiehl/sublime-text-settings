@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Babel",
+		"DashDoc",
+		"DocBlockr",
+		"File Rename",
+		"Git",
+		"GitGutter",
+		"Goto Usage",
+		"JSON Reindent",
+		"Package Control",
+		"RailsGoToSpec",
+		"Rsync SSH",
+		"Sass",
+		"Scratchpad",
+		"SFTP",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-ruby",
+		"Theme - Afterglow",
+		"Wrap Plus"
+	]
+}

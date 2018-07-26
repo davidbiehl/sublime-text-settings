@@ -1,0 +1,28 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"doc",
+		".yardoc",
+		"tmp",
+		"node_modules"
+	],
+	"font_size": 12,
+	"ignored_packages":
+	[
+	],
+	"rulers":
+	[
+		80
+	],
+	"show_encoding": true,
+	"tab_size": 2,
+	"tabs_medium": true,
+	"theme": "Afterglow-blue.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

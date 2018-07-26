@@ -1,0 +1,5 @@
+*.cache
+*.crt
+*ca-bundle*
+*.last-run
+sftp_servers
