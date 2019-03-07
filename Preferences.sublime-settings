@@ -1,6 +1,7 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -10,7 +11,8 @@
 		"doc",
 		".yardoc",
 		"tmp",
-		"node_modules"
+		"node_modules",
+		"coverage"
 	],
 	"font_size": 12,
 	"ignored_packages":
@@ -25,6 +27,5 @@
 	"tabs_medium": true,
 	"theme": "Afterglow-blue.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"vintage_start_in_command_mode": true,
-	"ensure_newline_at_eof_on_save": true
+	"vintage_start_in_command_mode": true
 }

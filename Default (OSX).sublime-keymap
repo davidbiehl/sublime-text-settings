@@ -1,3 +1,4 @@
 [
-  { "keys": ["ctrl+h"], "command": "dash_doc" }
+  { "keys": ["ctrl+h"], "command": "dash_doc" },
+  { "keys": ["super+."], "command": "goto_definition"}
 ]
